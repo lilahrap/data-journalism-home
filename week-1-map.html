@@ -110,17 +110,9 @@
             labels = [],
             from, to;
 
-            labels.push('<i style ="background:#08b19a;"></i>Not allowed');
+            labels.push('<i style ="background:red;"></i>Not allowed');
             labels.push('<i style ="background:#ff00ff;"></i>Allowed');
 
-        // for (var i = 0; i < grades.length; i++) {
-        //     from = grades[i];
-        //     to = grades[i + 1];
-
-        //     labels.push(
-        //         '<i style="background:' + getColor(from + 1) + '"></i> ' +
-        //         from + (to ? '&ndash;' + to : '+'));
-        // }
 
         return '<span>Surrogates per state</span><br>' + labels.join('<br>');
     }
