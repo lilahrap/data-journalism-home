@@ -56,8 +56,8 @@
 
     // get color depending on population density value
     function getColor(d) {
-        return d == 0 ? '#08b19a' :
-            d == 1  ? '#addce2' :
+        return d == 0 ? 'red' :
+            d == 1  ? '#f0f' :
             '#f9f9f9';
     }
 
@@ -106,18 +106,21 @@
 
     function getLegendHTML() {
         var grades = [0, 1],
-        grades2 = ["Not allowed", "Allowed"],
+        grades2 = ["No", "Yes"],
             labels = [],
             from, to;
 
-        for (var i = 0; i < grades2.length; i++) {
-            from = grades2[i];
-            to = grades2[i + 1];
+            labels.push('<i style ="background:#08b19a;"></i>Not allowed');
+            labels.push('<i style ="background:#ff00ff;"></i>Allowed');
 
-            labels.push(
-                '<i style="background:' + getColor(from + 1) + '"></i> ' +
-                from + (to ? '&ndash;' + to : '+'));
-        }
+        // for (var i = 0; i < grades.length; i++) {
+        //     from = grades[i];
+        //     to = grades[i + 1];
+
+        //     labels.push(
+        //         '<i style="background:' + getColor(from + 1) + '"></i> ' +
+        //         from + (to ? '&ndash;' + to : '+'));
+        // }
 
         return '<span>Surrogates per state</span><br>' + labels.join('<br>');
     }
