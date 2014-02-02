@@ -56,8 +56,8 @@
 
     // get color depending on population density value
     function getColor(d) {
-        return d == 0 ? 'red' :
-            d == 1  ? '#f0f' :
+        return d == 0 ? '#FF0000' :
+            d == 1  ? '#FF00FF' :
             '#f9f9f9';
     }
 
@@ -110,8 +110,8 @@
             labels = [],
             from, to;
 
-            labels.push('<i style ="background:red;"></i>Not allowed');
-            labels.push('<i style ="background:#ff00ff;"></i>Allowed');
+            labels.push('<i style ="background:#FF0000;"></i>Not allowed');
+            labels.push('<i style ="background:#FF00FF;"></i>Allowed');
 
 
         return '<span>Surrogates per state</span><br>' + labels.join('<br>');
