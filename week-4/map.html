@@ -122,11 +122,11 @@ var childCare = [{"state":"Oregon","child":18.6},
 
     // get color depending on population density value
     function getColor(d) {
-        return d > 1000 ? '#8c2d04' :
-            d > 500  ? '#cc4c02' :
-            d > 200  ? '#ec7014' :
-            d > 100  ? '#fe9929' :
-            d > 50   ? '#fec44f' :
+        return d > 100 ? '#8c2d04' :
+            d > 70  ? '#cc4c02' :
+            d > 50  ? '#ec7014' :
+            d > 40  ? '#fe9929' :
+            d > 30   ? '#fec44f' :
             d > 20   ? '#fee391' :
             d > 10   ? '#fff7bc' :
             '#ffffe5';
