@@ -1,0 +1,1751 @@
+[[{"id":"21306","name":"COUNTY PHARMACY INC","address":"580 NOSTRAND AVENUE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6789226","lng":"-73.9496732","highlight":"0","published":"1","dist":0.0852800140857
+{"id":"21170","name":"MAGNAM PHARMACY INC","address":"1236 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6802090","lng":"-73.9510650","highlight":"0","published":"1","dist":0.156576024554
+{"id":"21342","name":"FIVE STAR PHARMACY","address":"1200 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6802930","lng":"-73.9525690","highlight":"0","published":"1","dist":0.227683129415
+{"id":"11245","name":"THRIFTWAY PHARMACY","address":"524 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6808544","lng":"-73.9496887","highlight":"0","published":"1","dist":0.239848689846
+{"id":"20696","name":"COMPASHIONE PHARMACY","address":"621 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6757390","lng":"-73.9496710","highlight":"0","published":"1","dist":0.354231776111
+{"id":"21242","name":"M AND F PHARMACY","address":"712 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6741990","lng":"-73.9503540","highlight":"0","published":"1","dist":0.515876365646
+{"id":"20626","name":"BETTER HEALTH PHARMACY","address":"1147 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11238","phone":"","lat":"40.6813370","lng":"-73.9558770","highlight":"0","published":"1","dist":0.519461765577
+{"id":"11078","name":"QUICK RX","address":"1413 FULTON STREET","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6802990","lng":"-73.9445140","highlight":"0","published":"1","dist":0.544738988568
+{"id":"20893","name":"SWAN PHARMACY INC","address":"650 FRANKLIN AVE","city":"BROOKLYN","state":"NY","zip":"11238","phone":"","lat":"40.6761750","lng":"-73.9562490","highlight":"0","published":"1","dist":0.555012230066
+{"id":"10827","name":"BED STUY PHARMACY INC","address":"1458 FULTON STREET","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6797430","lng":"-73.9425410","highlight":"0","published":"1","dist":0.693556569929
+{"id":"21053","name":"HELFMAN PHARMACY","address":"410 TOMPKINS AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6830550","lng":"-73.9441900","highlight":"0","published":"1","dist":0.720953912036
+{"id":"10119","name":"RITE CHOICE PHARMACY","address":"1484 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6796930","lng":"-73.9416050","highlight":"1","published":"1","dist":0.771016181216
+{"id":"72527","name":"Phamco Drugs Inc","address":"802 Nostrand Ave","city":"Brooklyn","state":"NY","zip":"11216    ","phone":"(718) 604-2585","lat":"40.671264","lng":"-73.950581","highlight":"0","published":"1","dist":0.841551344813
+{"id":"69484","name":"Thriftway Pharmacy","address":"720 Classon Ave","city":"Brooklyn","state":"NY","zip":"11238    ","phone":"(718) 397-1800","lat":"40.6754346","lng":"-73.959975","highlight":"0","published":"1","dist":0.870321486541
+{"id":"10391","name":"RUBIN CHEMISTS","address":"828 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6700881","lng":"-73.9505017","highlight":"0","published":"1","dist":0.972379095047
+{"id":"21060","name":"FULTON DRUGS INC","address":"1548 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6795479","lng":"-73.9389780","highlight":"0","published":"1","dist":0.989782797815
+{"id":"20708","name":"S AND T PHARMACIE","address":"391 EASTERN PKY","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6706050","lng":"-73.9553670","highlight":"0","published":"1","dist":0.996619030778
+{"id":"10297","name":"PARK DRUGS","address":"801 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11225","phone":"","lat":"40.6692429","lng":"-73.9505399","highlight":"1","published":"1","dist":1.06631120516
+{"id":"21221","name":"ALBANY PHARMACY INC","address":"178 ALBANY AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6743850","lng":"-73.9391210","highlight":"0","published":"1","dist":1.09282195181
+{"id":"20628","name":"MAIMANS PHARMACY","address":"821 FRANKLIN AVE","city":"BROOKLYN","state":"NY","zip":"11225","phone":"","lat":"40.6704451","lng":"-73.9580305","highlight":"0","published":"1","dist":1.11991929239}],[40.6788319,-73.9506774,null]][[{"id":"21221","name":"ALBANY PHARMACY INC","address":"178 ALBANY AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6743850","lng":"-73.9391210","highlight":"0","published":"1","dist":0.242057495686
+{"id":"72397","name":"Kingston Pharmacy Inc","address":"1106 Saint Johns Pl","city":"Brooklyn","state":"NY","zip":"11213-2675","phone":"(718) 221-4805","lat":"40.670899","lng":"-73.941592","highlight":"0","published":"1","dist":0.268501997472
+{"id":"10993","name":"ESTIS PHARMACY AND SURGICALS","address":"300 TROY AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6690516","lng":"-73.9366842","highlight":"0","published":"1","dist":0.399002475224
+{"id":"10212","name":"ATLANTIC PHARMACY","address":"1706 B ATLANTIC AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6772100","lng":"-73.9340710","highlight":"0","published":"1","dist":0.689927764546
+{"id":"20580","name":"NEW RONSON DRUG INC","address":"237 UTICA AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6704170","lng":"-73.9306720","highlight":"0","published":"1","dist":0.723828787889
+{"id":"11448","name":"CROWN HEIGHTS PHARMACY","address":"376 KINGSTON AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6659880","lng":"-73.9427310","highlight":"0","published":"1","dist":0.763168417488
+{"id":"10161","name":"LINCOLN PLACE PHARMACY INC","address":"1135 EASTERN PKWY","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6692230","lng":"-73.9305860","highlight":"0","published":"1","dist":0.777656183269
+{"id":"10462","name":"UTICA PHARMACY INC","address":"285 287 UTICA AVE","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6681444","lng":"-73.9311673","highlight":"0","published":"1","dist":0.795221220141
+{"id":"21060","name":"FULTON DRUGS INC","address":"1548 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6795479","lng":"-73.9389780","highlight":"0","published":"1","dist":0.815573203713
+{"id":"10119","name":"RITE CHOICE PHARMACY","address":"1484 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6796930","lng":"-73.9416050","highlight":"1","published":"1","dist":0.861936585331
+{"id":"10238","name":"SUNSHINE PHARMACY INC","address":"411 KINGSTON AVE","city":"BROOKLYN","state":"NY","zip":"11225","phone":"","lat":"40.6647889","lng":"-73.9426096","highlight":"0","published":"1","dist":0.882228417147
+{"id":"10827","name":"BED STUY PHARMACY INC","address":"1458 FULTON STREET","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6797430","lng":"-73.9425410","highlight":"0","published":"1","dist":0.891163654832
+{"id":"20696","name":"COMPASHIONE PHARMACY","address":"621 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6757390","lng":"-73.9496710","highlight":"0","published":"1","dist":0.987694094168
+{"id":"72527","name":"Phamco Drugs Inc","address":"802 Nostrand Ave","city":"Brooklyn","state":"NY","zip":"11216    ","phone":"(718) 604-2585","lat":"40.671264","lng":"-73.950581","highlight":"0","published":"1","dist":0.988988216506
+{"id":"21242","name":"M AND F PHARMACY","address":"712 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6741990","lng":"-73.9503540","highlight":"0","published":"1","dist":0.989128620599
+{"id":"21074","name":"DM PHARMACY INC","address":"525 EMPIRE BLVD","city":"BROOKLYN","state":"NY","zip":"11225","phone":"","lat":"40.6644370","lng":"-73.9446970","highlight":"0","published":"1","dist":0.992467755154
+{"id":"10391","name":"RUBIN CHEMISTS","address":"828 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6700881","lng":"-73.9505017","highlight":"0","published":"1","dist":1.00484327652
+{"id":"11078","name":"QUICK RX","address":"1413 FULTON STREET","city":"BROOKLYN","state":"NY","zip":"11216","phone":"","lat":"40.6802990","lng":"-73.9445140","highlight":"0","published":"1","dist":1.01527419573
+{"id":"20606","name":"JACOFFS PHARMACY","address":"839 EMPIRE BLVD","city":"BROOKLYN","state":"NY","zip":"11213","phone":"","lat":"40.6636159","lng":"-73.9344959","highlight":"0","published":"1","dist":1.02627673282
+{"id":"10297","name":"PARK DRUGS","address":"801 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11225","phone":"","lat":"40.6692429","lng":"-73.9505399","highlight":"1","published":"1","dist":1.03405911249}],[40.6722134,-73.9389213,null]][[{"id":"11275","name":"BATTERY PARK PHARMACY INC","address":"327 S END AVE","city":"NEW YORK","state":"NY","zip":"10280","phone":"","lat":"40.7105092","lng":"-74.0162301","highlight":"0","published":"1","dist":0.764886492236
+{"id":"10441","name":"DOWNTOWN PHARMACY","address":"165 WILLIAM ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7101611","lng":"-74.0058470","highlight":"0","published":"1","dist":0.972021738708
+{"id":"10875","name":"DOWNTOWN PHARMACY","address":"19 BEEKMAN STREET","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7107610","lng":"-74.0063140","highlight":"0","published":"1","dist":0.995492844493
+{"id":"69749","name":"Beekman Pharmacy","address":"19 Beekman St","city":"New York","state":"NY","zip":"10038-1522","phone":"(212) 766-1942","lat":"40.7107649","lng":"-74.0061004","highlight":"0","published":"1","dist":1.00741309919
+{"id":"10514","name":"EVE AND MICHAEL PHARMACY INC","address":"295 GREENWICH ST","city":"NEW YORK","state":"NY","zip":"10007","phone":"","lat":"40.7157050","lng":"-74.0108870","highlight":"0","published":"1","dist":1.33950128297
+{"id":"20979","name":"KINGS PHARMACY","address":"5 HUDSON ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7158214","lng":"-74.0092979","highlight":"1","published":"1","dist":1.38326869443
+{"id":"10859","name":"GENERATION PHARMACY LLC","address":"31 33 OLIVER ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7120690","lng":"-73.9979200","highlight":"0","published":"1","dist":1.62326721484
+{"id":"72509","name":"Prime Essentials Llc","address":"345 Broadway","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 941-7900","lat":"40.7166736","lng":"-74.0042028","highlight":"0","published":"1","dist":1.63967709122
+{"id":"21304","name":"MEDPHARM DRUG AND TRADING INC","address":"61 CATHERINE ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7112817","lng":"-73.9967468","highlight":"0","published":"1","dist":1.66086828491
+{"id":"21110","name":"FOREVER HEALTH PHARMACY INC","address":"2 EAST BROADWAY","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7136190","lng":"-73.9975230","highlight":"0","published":"1","dist":1.75211686283
+{"id":"11391","name":"WING ON PHARMACY INC","address":"18 E BROADWAY","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7135012","lng":"-73.9970765","highlight":"0","published":"1","dist":1.77389973067
+{"id":"21225","name":"BROADWAY DOWNTOWN PHARMACY INC","address":"373 BROADWAY","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7177873","lng":"-74.0032782","highlight":"0","published":"1","dist":1.78587073498
+{"id":"21143","name":"ALISONS PHARMACY INC","address":"12 BOWERY","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7144679","lng":"-73.9976220","highlight":"0","published":"1","dist":1.8056964431
+{"id":"72463","name":"Abc Pharmacy V Corp","address":"26 East Broadway","city":"New York","state":"NY","zip":"10002    ","phone":"(212) 965-8882","lat":"40.713726","lng":"-73.996763","highlight":"0","published":"1","dist":1.81005876855
+{"id":"21325","name":"BEST CARE PHARMACY CORP","address":"28 E BROADWAY","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7137220","lng":"-73.9966710","highlight":"0","published":"1","dist":1.81596834622
+{"id":"72565","name":"E Care Pharmacy Corp","address":"48 Mott St","city":"New York","state":"NY","zip":"10013-5011","phone":"(212) 962-3388","lat":"40.715358","lng":"-73.998481","highlight":"0","published":"1","dist":1.81953043221
+{"id":"20804","name":"METRO PHARM INC","address":"92 BAXTER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7167236","lng":"-73.9998237","highlight":"0","published":"1","dist":1.85503668616
+{"id":"69350","name":"Pancare Pharmacy Inc","address":"22 Bowery","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 240-2312","lat":"40.7148054","lng":"-73.9972242","highlight":"0","published":"1","dist":1.85560216679
+{"id":"69744","name":"Aid Pharmacy Ny Corp","address":"139 Centre St","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 965-9688","lat":"40.717466","lng":"-74.0008299","highlight":"0","published":"1","dist":1.86829590285
+{"id":"11174","name":"CONFUCIUS PHARMACY","address":"25 BOWERY ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7147614","lng":"-73.9968728","highlight":"0","published":"1","dist":1.87491311241}],[40.7038704,-74.0138541,null]][[{"id":"20979","name":"KINGS PHARMACY","address":"5 HUDSON ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7158214","lng":"-74.0092979","highlight":"1","published":"1","dist":0.246578094141
+{"id":"10514","name":"EVE AND MICHAEL PHARMACY INC","address":"295 GREENWICH ST","city":"NEW YORK","state":"NY","zip":"10007","phone":"","lat":"40.7157050","lng":"-74.0108870","highlight":"0","published":"1","dist":0.293029389057
+{"id":"10875","name":"DOWNTOWN PHARMACY","address":"19 BEEKMAN STREET","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7107610","lng":"-74.0063140","highlight":"0","published":"1","dist":0.379440365376
+{"id":"69749","name":"Beekman Pharmacy","address":"19 Beekman St","city":"New York","state":"NY","zip":"10038-1522","phone":"(212) 766-1942","lat":"40.7107649","lng":"-74.0061004","highlight":"0","published":"1","dist":0.388973191491
+{"id":"10441","name":"DOWNTOWN PHARMACY","address":"165 WILLIAM ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7101611","lng":"-74.0058470","highlight":"0","published":"1","dist":0.456867271825
+{"id":"72509","name":"Prime Essentials Llc","address":"345 Broadway","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 941-7900","lat":"40.7166736","lng":"-74.0042028","highlight":"0","published":"1","dist":0.507547206346
+{"id":"21225","name":"BROADWAY DOWNTOWN PHARMACY INC","address":"373 BROADWAY","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7177873","lng":"-74.0032782","highlight":"0","published":"1","dist":0.649272130634
+{"id":"11275","name":"BATTERY PARK PHARMACY INC","address":"327 S END AVE","city":"NEW YORK","state":"NY","zip":"10280","phone":"","lat":"40.7105092","lng":"-74.0162301","highlight":"0","published":"1","dist":0.723420327659
+{"id":"21206","name":"SOHO PHARMACY","address":"3 WALKER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7199896","lng":"-74.0055525","highlight":"0","published":"1","dist":0.753700498132
+{"id":"11124","name":"FAMILY CHOICE PHARMACY CORP.","address":"221 CANAL ST 2ND FL","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7199258","lng":"-74.0050400","highlight":"0","published":"1","dist":0.763533854713
+{"id":"69744","name":"Aid Pharmacy Ny Corp","address":"139 Centre St","city":"New York","state":"NY","zip":"10013    ","phone":"(212) 965-9688","lat":"40.717466","lng":"-74.0008299","highlight":"0","published":"1","dist":0.788382314573
+{"id":"10380","name":"BUY RITE PHARMACY II","address":"106 LAFAYETTE ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7179779","lng":"-74.0009752","highlight":"0","published":"1","dist":0.810545097659
+{"id":"20804","name":"METRO PHARM INC","address":"92 BAXTER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7167236","lng":"-73.9998237","highlight":"0","published":"1","dist":0.823504530038
+{"id":"20955","name":"BAC AI PHARMACY","address":"216 CANAL ST B","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7170360","lng":"-73.9992750","highlight":"0","published":"1","dist":0.880083741213
+{"id":"72565","name":"E Care Pharmacy Corp","address":"48 Mott St","city":"New York","state":"NY","zip":"10013-5011","phone":"(212) 962-3388","lat":"40.715358","lng":"-73.998481","highlight":"0","published":"1","dist":0.883040519934
+{"id":"20981","name":"NEW YORK PHARMACY INC","address":"131 WALKER ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7172940","lng":"-73.9993855","highlight":"0","published":"1","dist":0.88444908618
+{"id":"21089","name":"CANAL STREET PHARMACY INC","address":"210 212 CANAL ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7168940","lng":"-73.9989930","highlight":"0","published":"1","dist":0.895141501674
+{"id":"20954","name":"CANALBERRY PHARMACY","address":"84 MULBERRY ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7164820","lng":"-73.9986660","highlight":"0","published":"1","dist":0.903454814989
+{"id":"10859","name":"GENERATION PHARMACY LLC","address":"31 33 OLIVER ST","city":"NEW YORK","state":"NY","zip":"10038","phone":"","lat":"40.7120690","lng":"-73.9979200","highlight":"0","published":"1","dist":0.92645238105
+{"id":"11112","name":"EZ CARE PHARMACY LLC","address":"127A LAFAYETTE ST","city":"NEW YORK","state":"NY","zip":"10013","phone":"","lat":"40.7189026","lng":"-74.0000716","highlight":"0","published":"1","dist":0.933630916409}],[40.7136487,-74.0087126,null]][[{"id":"20868","name":"NEIGHBORHOOD FRIENDLY PHARMACY INC","address":"712 MYRTLE AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6944690","lng":"-73.9547780","highlight":"0","published":"1","dist":0.14987256017
+{"id":"10882","name":"FLUSHING PHARMACY INC","address":"414 FLUSHING AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6988032","lng":"-73.9580136","highlight":"0","published":"1","dist":0.49365215755
+{"id":"21211","name":"DANISH PHARMACY","address":"443 DEKALB AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6906270","lng":"-73.9597800","highlight":"0","published":"1","dist":0.509643292556
+{"id":"69461","name":"Wallabout Pharmacy Inc","address":"711 Bedford Avenue","city":"Brooklyn","state":"NY","zip":"11206    ","phone":"(718) 855-0214","lat":"40.6996378","lng":"-73.9568701","highlight":"0","published":"1","dist":0.571514295075
+{"id":"10070","name":"MANIPAL DRUGS INC","address":"280 NOSTRAND AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6902649","lng":"-73.9518430","highlight":"0","published":"1","dist":0.61642090724
+{"id":"21187","name":"PAKAM PHARMACY INC","address":"597 MARCY AVE","city":"BROOKLYN","state":"NY","zip":"11206","phone":"","lat":"40.6945935","lng":"-73.9490316","highlight":"0","published":"1","dist":0.634366925356
+{"id":"11123","name":"BATISH DRUGS","address":"378 LAFAYETTE AVE","city":"BROOKLYN","state":"NY","zip":"11238","phone":"","lat":"40.6888467","lng":"-73.9601728","highlight":"0","published":"1","dist":0.699068765545
+{"id":"20799","name":"S BROS PHARMACY","address":"176 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7024400","lng":"-73.9566370","highlight":"0","published":"1","dist":0.882514424731
+{"id":"20985","name":"MYRTLE PHARMACY INC","address":"446 A MYRTLE AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6932535","lng":"-73.9676209","highlight":"0","published":"1","dist":0.943239078923
+{"id":"21291","name":"LIEB PHARMACY II INC","address":"147 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7034449","lng":"-73.9573631","highlight":"0","published":"1","dist":0.996557832983
+{"id":"21254","name":"QASIM PHARMACY INC","address":"934 MYRTLE AVE","city":"BROOKLYN","state":"NY","zip":"11206","phone":"","lat":"40.6959224","lng":"-73.9443126","highlight":"0","published":"1","dist":1.04411306451
+{"id":"10247","name":"SHIMONS PHARMACY INC","address":"115 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7045000","lng":"-73.9582590","highlight":"0","published":"1","dist":1.12079161897
+{"id":"21160","name":"MARCY PHARMACY INC","address":"170 THROOP AVE","city":"BROOKLYN","state":"NY","zip":"11206","phone":"","lat":"40.6992440","lng":"-73.9444860","highlight":"0","published":"1","dist":1.14591071093
+{"id":"10396","name":"UNZER PHARMACY INC","address":"572 BEDFORD AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7042312","lng":"-73.9612472","highlight":"0","published":"1","dist":1.15171545675
+{"id":"20596","name":"HEALTH POINT DRUGS INC","address":"392 MYRTLE AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6929070","lng":"-73.9702970","highlight":"0","published":"1","dist":1.17208453853
+{"id":"10388","name":"RAFIEH PHARMACY","address":"70 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7054160","lng":"-73.9600350","highlight":"0","published":"1","dist":1.24836176648
+{"id":"21131","name":"BEHRENS PHARMACY","address":"231 DEKALB AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6896690","lng":"-73.9699790","highlight":"0","published":"1","dist":1.25296369715
+{"id":"20802","name":"STUART SLATER PHARMACY","address":"63 LEE AVE","city":"BROOKLYN","state":"NY","zip":"11211","phone":"","lat":"40.7059020","lng":"-73.9597880","highlight":"0","published":"1","dist":1.29641435851
+{"id":"21252","name":"BILAL DRUG CORPORATION","address":"868 DEKALB AVE","city":"BROOKLYN","state":"NY","zip":"11221","phone":"","lat":"40.6922860","lng":"-73.9412660","highlight":"0","published":"1","dist":1.31238336392
+{"id":"69330","name":"Greene Van Pharmacy Corp","address":"94 Greene Ave","city":"Brooklyn","state":"NY","zip":"11238    ","phone":"(718) 783-0890","lat":"40.6862702","lng":"-73.9683803","highlight":"0","published":"1","dist":1.35358947112}],[40.6945036,-73.9565551,null]]<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+[[{"id":"67220","name":"Berginer Drug Store Inc","address":"102 W Main St Ste A","city":"Warsaw","state":"KY","zip":"41095-0990","phone":"(859) 567-4601","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67221","name":"Family Health Clinic Inc","address":"234 Medical Circle","city":"Morehead","state":"KY","zip":"40351-1016","phone":"(606) 784-6696","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67256","name":"Health Help Incorporated","address":"1010 Main Street South","city":"Mckee","state":"KY","zip":"40447    ","phone":"(606) 287-7104","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67151","name":"Seventh St Pharmacy Inc","address":"511 N Main St Ste B","city":"Erie","state":"KS","zip":"66733-1017","phone":"(620) 244-3333","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67150","name":"Cooper Drug Inc","address":"509 State St","city":"Augusta","state":"KS","zip":"67010-1187","phone":"(316) 775-2289","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67134","name":"Rashid Pharmacy P L C","address":"2402 Avenue L","city":"Fort Madison","state":"IA","zip":"52627    ","phone":"(319) 376-2358","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67135","name":"Kedo Llc","address":"4105 Westcor Ct Ste 1","city":"Coralville","state":"IA","zip":"52241-2874","phone":"(319) 545-5100","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67257","name":"Central City Clinic Pharmacy Inc","address":"3959 Us Highway 431 S","city":"Beechmont","state":"KY","zip":"42323    ","phone":"(270) 476-3600","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67273","name":"Parker Professional Pharmacy Incorporation","address":"8857 Meta Highway","city":"Pikeville","state":"KY","zip":"41501    ","phone":"(606) 631-9999","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67344","name":"Save Rite Drugs Radcliff","address":"990 S Dixie Blvd Ste 6","city":"Radcliff","state":"KY","zip":"40160-1296","phone":"(270) 351-3784","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67416","name":"Reagans Rx Compounding Pharmacy And Home Care","address":"1118 Homer Rd Ste G","city":"Minden","state":"LA","zip":"71055-3028","phone":"(318) 382-7948","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67343","name":"Hometown Pharmacy Of Whitley City Inc","address":"1182 N Highway 27","city":"Whitley City","state":"KY","zip":"42653-4084","phone":"(606) 376-3300","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67342","name":"Stephanies Down Home Pharmacy Inc","address":"1220 Master St Ste 5","city":"Corbin","state":"KY","zip":"40701-2517","phone":"(606) 261-7877","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67275","name":"Rite Value Pharmacy Inc","address":"2673 Highway 644 Ste 1","city":"Louisa","state":"KY","zip":"41230    ","phone":"(606) 638-9627","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67276","name":"Compound Care Pharmacy Inc","address":"12121 Shelbyville Rd Ste 107","city":"Louisville","state":"KY","zip":"40243-1094","phone":"(502) 244-6500","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67130","name":"Wester Drug Ltc Llc","address":"319 E 2nd St Ste 104","city":"Muscatine","state":"IA","zip":"52761-4151","phone":"(563) 262-2804","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67076","name":"Pharmacy Associates Of Carroll Inc","address":"425 Hwy 30 West","city":"Carroll","state":"IA","zip":"51401    ","phone":"(712) 792-2671","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66672","name":"L Krenk Inc","address":"53 Puunene Ave","city":"Kahului","state":"HI","zip":"96732-2110","phone":"(808) 877-6222","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66736","name":"Vics Family Pharmacy Inc","address":"118 S Midland Blvd","city":"Nampa","state":"ID","zip":"83686-2601","phone":"(208) 442-1000","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66638","name":"Harbin Clinic Llc","address":"255 West 5th Street","city":"Rome","state":"GA","zip":"30165    ","phone":"(706) 528-9096","lat":"","lng":"","highlight":"0","published":"1","dist":0}],[null,null,null]]<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+[[{"id":"67220","name":"Berginer Drug Store Inc","address":"102 W Main St Ste A","city":"Warsaw","state":"KY","zip":"41095-0990","phone":"(859) 567-4601","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67221","name":"Family Health Clinic Inc","address":"234 Medical Circle","city":"Morehead","state":"KY","zip":"40351-1016","phone":"(606) 784-6696","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67256","name":"Health Help Incorporated","address":"1010 Main Street South","city":"Mckee","state":"KY","zip":"40447    ","phone":"(606) 287-7104","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67151","name":"Seventh St Pharmacy Inc","address":"511 N Main St Ste B","city":"Erie","state":"KS","zip":"66733-1017","phone":"(620) 244-3333","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67150","name":"Cooper Drug Inc","address":"509 State St","city":"Augusta","state":"KS","zip":"67010-1187","phone":"(316) 775-2289","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67134","name":"Rashid Pharmacy P L C","address":"2402 Avenue L","city":"Fort Madison","state":"IA","zip":"52627    ","phone":"(319) 376-2358","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67135","name":"Kedo Llc","address":"4105 Westcor Ct Ste 1","city":"Coralville","state":"IA","zip":"52241-2874","phone":"(319) 545-5100","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67257","name":"Central City Clinic Pharmacy Inc","address":"3959 Us Highway 431 S","city":"Beechmont","state":"KY","zip":"42323    ","phone":"(270) 476-3600","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67273","name":"Parker Professional Pharmacy Incorporation","address":"8857 Meta Highway","city":"Pikeville","state":"KY","zip":"41501    ","phone":"(606) 631-9999","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67344","name":"Save Rite Drugs Radcliff","address":"990 S Dixie Blvd Ste 6","city":"Radcliff","state":"KY","zip":"40160-1296","phone":"(270) 351-3784","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67416","name":"Reagans Rx Compounding Pharmacy And Home Care","address":"1118 Homer Rd Ste G","city":"Minden","state":"LA","zip":"71055-3028","phone":"(318) 382-7948","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67343","name":"Hometown Pharmacy Of Whitley City Inc","address":"1182 N Highway 27","city":"Whitley City","state":"KY","zip":"42653-4084","phone":"(606) 376-3300","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67342","name":"Stephanies Down Home Pharmacy Inc","address":"1220 Master St Ste 5","city":"Corbin","state":"KY","zip":"40701-2517","phone":"(606) 261-7877","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67275","name":"Rite Value Pharmacy Inc","address":"2673 Highway 644 Ste 1","city":"Louisa","state":"KY","zip":"41230    ","phone":"(606) 638-9627","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67276","name":"Compound Care Pharmacy Inc","address":"12121 Shelbyville Rd Ste 107","city":"Louisville","state":"KY","zip":"40243-1094","phone":"(502) 244-6500","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67130","name":"Wester Drug Ltc Llc","address":"319 E 2nd St Ste 104","city":"Muscatine","state":"IA","zip":"52761-4151","phone":"(563) 262-2804","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67076","name":"Pharmacy Associates Of Carroll Inc","address":"425 Hwy 30 West","city":"Carroll","state":"IA","zip":"51401    ","phone":"(712) 792-2671","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66672","name":"L Krenk Inc","address":"53 Puunene Ave","city":"Kahului","state":"HI","zip":"96732-2110","phone":"(808) 877-6222","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66736","name":"Vics Family Pharmacy Inc","address":"118 S Midland Blvd","city":"Nampa","state":"ID","zip":"83686-2601","phone":"(208) 442-1000","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66638","name":"Harbin Clinic Llc","address":"255 West 5th Street","city":"Rome","state":"GA","zip":"30165    ","phone":"(706) 528-9096","lat":"","lng":"","highlight":"0","published":"1","dist":0}],[null,null,null]]<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>113</b><br />
+<br />
+<b>Warning</b>:  deg2rad() expects parameter 1 to be double, string given in <b>/home/fight4rx/public_html/map/getpharms3.php</b> on line <b>115</b><br />
+[[{"id":"67220","name":"Berginer Drug Store Inc","address":"102 W Main St Ste A","city":"Warsaw","state":"KY","zip":"41095-0990","phone":"(859) 567-4601","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67221","name":"Family Health Clinic Inc","address":"234 Medical Circle","city":"Morehead","state":"KY","zip":"40351-1016","phone":"(606) 784-6696","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67256","name":"Health Help Incorporated","address":"1010 Main Street South","city":"Mckee","state":"KY","zip":"40447    ","phone":"(606) 287-7104","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67151","name":"Seventh St Pharmacy Inc","address":"511 N Main St Ste B","city":"Erie","state":"KS","zip":"66733-1017","phone":"(620) 244-3333","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67150","name":"Cooper Drug Inc","address":"509 State St","city":"Augusta","state":"KS","zip":"67010-1187","phone":"(316) 775-2289","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67134","name":"Rashid Pharmacy P L C","address":"2402 Avenue L","city":"Fort Madison","state":"IA","zip":"52627    ","phone":"(319) 376-2358","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67135","name":"Kedo Llc","address":"4105 Westcor Ct Ste 1","city":"Coralville","state":"IA","zip":"52241-2874","phone":"(319) 545-5100","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67257","name":"Central City Clinic Pharmacy Inc","address":"3959 Us Highway 431 S","city":"Beechmont","state":"KY","zip":"42323    ","phone":"(270) 476-3600","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67273","name":"Parker Professional Pharmacy Incorporation","address":"8857 Meta Highway","city":"Pikeville","state":"KY","zip":"41501    ","phone":"(606) 631-9999","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67344","name":"Save Rite Drugs Radcliff","address":"990 S Dixie Blvd Ste 6","city":"Radcliff","state":"KY","zip":"40160-1296","phone":"(270) 351-3784","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67416","name":"Reagans Rx Compounding Pharmacy And Home Care","address":"1118 Homer Rd Ste G","city":"Minden","state":"LA","zip":"71055-3028","phone":"(318) 382-7948","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67343","name":"Hometown Pharmacy Of Whitley City Inc","address":"1182 N Highway 27","city":"Whitley City","state":"KY","zip":"42653-4084","phone":"(606) 376-3300","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67342","name":"Stephanies Down Home Pharmacy Inc","address":"1220 Master St Ste 5","city":"Corbin","state":"KY","zip":"40701-2517","phone":"(606) 261-7877","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67275","name":"Rite Value Pharmacy Inc","address":"2673 Highway 644 Ste 1","city":"Louisa","state":"KY","zip":"41230    ","phone":"(606) 638-9627","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67276","name":"Compound Care Pharmacy Inc","address":"12121 Shelbyville Rd Ste 107","city":"Louisville","state":"KY","zip":"40243-1094","phone":"(502) 244-6500","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67130","name":"Wester Drug Ltc Llc","address":"319 E 2nd St Ste 104","city":"Muscatine","state":"IA","zip":"52761-4151","phone":"(563) 262-2804","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"67076","name":"Pharmacy Associates Of Carroll Inc","address":"425 Hwy 30 West","city":"Carroll","state":"IA","zip":"51401    ","phone":"(712) 792-2671","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66672","name":"L Krenk Inc","address":"53 Puunene Ave","city":"Kahului","state":"HI","zip":"96732-2110","phone":"(808) 877-6222","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66736","name":"Vics Family Pharmacy Inc","address":"118 S Midland Blvd","city":"Nampa","state":"ID","zip":"83686-2601","phone":"(208) 442-1000","lat":"","lng":"","highlight":"0","published":"1","dist":0
+{"id":"66638","name":"Harbin Clinic Llc","address":"255 West 5th Street","city":"Rome","state":"GA","zip":"30165    ","phone":"(706) 528-9096","lat":"","lng":"","highlight":"0","published":"1","dist":0}],[null,null,null]][[{"id":"69406","name":"Nyco Chemists Inc","address":"104 Jay Street","city":"Brooklyn","state":"NY","zip":"11201    ","phone":"(718) 246-4100","lat":"40.7019506","lng":"-73.9868234","highlight":"0","published":"1","dist":0.371502042572
+{"id":"10955","name":"NATES PHARMACY","address":"111 GOLD STREET","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.7016009","lng":"-73.9826320","highlight":"0","published":"1","dist":0.428395308862
+{"id":"20845","name":"METRO DRUGS INC","address":"4 METROTECH CENTER","city":"BROOKLYN","state":"NY","zip":"11245","phone":"","lat":"40.6936510","lng":"-73.9847770","highlight":"0","published":"1","dist":0.56744354047
+{"id":"69237","name":"Namdor Inc","address":"101 Clark St","city":"Brooklyn","state":"NY","zip":"11201-2746","phone":"(212) 373-8440","lat":"40.6975504","lng":"-73.9927735","highlight":"0","published":"1","dist":0.589437662312
+{"id":"72384","name":"Nyco Chemist Ii Inc","address":"129 Montague St","city":"Brooklyn","state":"NY","zip":"11201-3543","phone":"(718) 237-2489","lat":"40.694875","lng":"-73.994041","highlight":"0","published":"1","dist":0.803125766217
+{"id":"21159","name":"A-Z DRUG CORPORATION","address":"150 JORALEMON ST","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6928503","lng":"-73.9932313","highlight":"0","published":"1","dist":0.89303664355
+{"id":"10359","name":"BROOKLN CENTER PHARMACY","address":"104 DEKALB AVENUE","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6898069","lng":"-73.9784530","highlight":"0","published":"1","dist":1.17108130979
+{"id":"21264","name":"EVON PHARMACY","address":"160 ATLANTIC AVE","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6901658","lng":"-73.9941977","highlight":"0","published":"1","dist":1.17483313547
+{"id":"21188","name":"SIRI PHARMACY INC","address":"23 FLAT BUSH AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6887538","lng":"-73.9807374","highlight":"0","published":"1","dist":1.187457911
+{"id":"69483","name":"Ashland Pharmacy Inc","address":"123 Dekalb Ave","city":"Brooklyn","state":"NY","zip":"11217-1237","phone":"(718) 834-9884","lat":"40.6896935","lng":"-73.9773778","highlight":"0","published":"1","dist":1.23253420832
+{"id":"21102","name":"NEVINS DRUGS INC","address":"326 LIVINGSTON ST","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6878590","lng":"-73.9818180","highlight":"0","published":"1","dist":1.25215496608
+{"id":"11131","name":"HEIGHTS APOTHECARY","address":"79 ATLANTIC AVE","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6911465","lng":"-73.9975722","highlight":"0","published":"1","dist":1.28945517332
+{"id":"72504","name":"Atlantic Heights Specialty Script Corp","address":"349 Henry St","city":"Brooklyn","state":"NY","zip":"11201-5551","phone":"(718) 780-1671","lat":"40.689549","lng":"-73.996461","highlight":"0","published":"1","dist":1.34789262597
+{"id":"11015","name":"INTERBORO PHARMACY INC","address":"75 NEVINS AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6863015","lng":"-73.9824935","highlight":"0","published":"1","dist":1.4064832478
+{"id":"11257","name":"S V R H PHARMACY INC","address":"161 SMITH ST","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6861840","lng":"-73.9905630","highlight":"0","published":"1","dist":1.44279179895
+{"id":"21003","name":"WYCKOFFS CORNER PHARMACY","address":"205 COURT ST","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6869240","lng":"-73.9933770","highlight":"0","published":"1","dist":1.44947361239
+{"id":"20596","name":"HEALTH POINT DRUGS INC","address":"392 MYRTLE AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6929070","lng":"-73.9702970","highlight":"0","published":"1","dist":1.466701918
+{"id":"10146","name":"MADISON DRUGS INC","address":"36 GOUVERNEUR ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7130324","lng":"-73.9838385","highlight":"0","published":"1","dist":1.60603760657
+{"id":"10721","name":"CENTURY PHARMACY","address":"225 MADISON ST","city":"NEW YORK","state":"NY","zip":"10002","phone":"","lat":"40.7129920","lng":"-73.9886930","highlight":"0","published":"1","dist":1.60854319505
+{"id":"69421","name":"Fulton Family Pharmacy Inc","address":"98 East Broadway 1st Fl","city":"New York","state":"NY","zip":"10002    ","phone":"(212) 431-6688","lat":"40.7135097","lng":"-73.9859414","highlight":"0","published":"1","dist":1.64929875037}],[40.6986772,-73.9859414,null]][[{"id":"20648","name":"SALTZMAN PHARMACY INC","address":"96 3RD AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6836130","lng":"-73.9821960","highlight":"0","published":"1","dist":0.191952317521
+{"id":"11213","name":"EMCON PHARMACY INC","address":"49 5TH AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6811910","lng":"-73.9768770","highlight":"0","published":"1","dist":0.336175957373
+{"id":"10153","name":"CREST PHARMACY LTD","address":"196 FLATBUSH AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6815380","lng":"-73.9760270","highlight":"0","published":"1","dist":0.377607483962
+{"id":"11015","name":"INTERBORO PHARMACY INC","address":"75 NEVINS AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6863015","lng":"-73.9824935","highlight":"0","published":"1","dist":0.419709006296
+{"id":"21102","name":"NEVINS DRUGS INC","address":"326 LIVINGSTON ST","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6878590","lng":"-73.9818180","highlight":"0","published":"1","dist":0.559421241304
+{"id":"21161","name":"GREENE COMMUNITY PHARMACY INC","address":"702 FULTON ST","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6858530","lng":"-73.9738770","highlight":"0","published":"1","dist":0.610212408491
+{"id":"21188","name":"SIRI PHARMACY INC","address":"23 FLAT BUSH AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6887538","lng":"-73.9807374","highlight":"0","published":"1","dist":0.641540012438
+{"id":"10359","name":"BROOKLN CENTER PHARMACY","address":"104 DEKALB AVENUE","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6898069","lng":"-73.9784530","highlight":"0","published":"1","dist":0.768237386059
+{"id":"69483","name":"Ashland Pharmacy Inc","address":"123 Dekalb Ave","city":"Brooklyn","state":"NY","zip":"11217-1237","phone":"(718) 834-9884","lat":"40.6896935","lng":"-73.9773778","highlight":"0","published":"1","dist":0.777261278059
+{"id":"10894","name":"GOWANUS PHARMACY LLC","address":"236 HOYT ST","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6830251","lng":"-73.9902171","highlight":"0","published":"1","dist":0.856091776168
+{"id":"11257","name":"S V R H PHARMACY INC","address":"161 SMITH ST","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6861840","lng":"-73.9905630","highlight":"0","published":"1","dist":0.95312472018
+{"id":"11363","name":"KINGS PHARMACY","address":"357 FLATBUSH AVE","city":"BROOKLYN","state":"NY","zip":"11238","phone":"","lat":"40.6768980","lng":"-73.9718700","highlight":"1","published":"1","dist":0.968975847236
+{"id":"11247","name":"PROSPECT GARDENS PHARMACY INC","address":"89 7TH AVE","city":"BROOKLYN","state":"NY","zip":"11217","phone":"","lat":"40.6744860","lng":"-73.9750850","highlight":"0","published":"1","dist":1.03636079674
+{"id":"69330","name":"Greene Van Pharmacy Corp","address":"94 Greene Ave","city":"Brooklyn","state":"NY","zip":"11238    ","phone":"(718) 783-0890","lat":"40.6862702","lng":"-73.9683803","highlight":"0","published":"1","dist":1.04991156107
+{"id":"11417","name":"NEERGAARD PHARMACY","address":"120 7TH AVE","city":"BROOKLYN","state":"NY","zip":"11215","phone":"","lat":"40.6736870","lng":"-73.9763170","highlight":"0","published":"1","dist":1.08343854842
+{"id":"21131","name":"BEHRENS PHARMACY","address":"231 DEKALB AVE","city":"BROOKLYN","state":"NY","zip":"11205","phone":"","lat":"40.6896690","lng":"-73.9699790","highlight":"0","published":"1","dist":1.12780042341
+{"id":"21003","name":"WYCKOFFS CORNER PHARMACY","address":"205 COURT ST","city":"BROOKLYN","state":"NY","zip":"11201","phone":"","lat":"40.6869240","lng":"-73.9933770","highlight":"0","published":"1","dist":1.20404906327
+{"id":"10383","name":"PALMA CHEMIST","address":"159 7TH AVE","city":"BROOKLYN","state":"NY","zip":"11215","phone":"","lat":"40.6722990","lng":"-73.9767350","highlight":"1","published":"1","dist":1.22332120742
+{"id":"20845","name":"METRO DRUGS INC","address":"4 METROTECH CENTER","city":"BROOKLYN","state":"NY","zip":"11245","phone":"","lat":"40.6936510","lng":"-73.9847770","highlight":"0","published":"1","dist":1.2484847324
+{"id":"21109","name":"KIDS RX","address":"189 7TH AVE","city":"BROOKLYN","state":"NY","zip":"11215","phone":"","lat":"40.6709300","lng":"-73.9778950","highlight":"0","published":"1","dist":1.35529539132}],[40.6830069,-73.9800645,null]]
