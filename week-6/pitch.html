@@ -1,0 +1,73 @@
+<html>
+<head>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+		<title>Lilah's Final Pitch</title>
+	<style>
+		body {
+			font-family: "Open Sans";
+			color: #333333;
+			background: #add5f7;
+			font-size: 13px;
+		}
+
+		h1 {
+			font-family: "Open Sans";
+			font-weight: normal;
+			font-size: 72px;
+			color: #666666;
+			margin-bottom: 0px;
+			margin-top: 0px;
+			text-align: center;
+		}
+
+		h2 {
+			text-align: center;
+			font-family: "Open Sans";
+			font-size: 20px;
+		}
+
+		.post {
+			background: #FFFFFF;
+			width: 550px;
+			padding: 30px;
+			margin: 0 auto;
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+
+		h2.small {
+			font-variant:small-caps;
+		}
+
+	</style>
+</head>
+<body>
+<h1>Lilah's Final Pitch</h1>
+<div class="post">
+	<h2>Overview on turnout of other pitches</h2>
+	<p><b>1. Foster Care:</b> As expected, the state house is playing cat and mouse with me about receiving data, (with a bent towards "no") so I can't rely on having useful data in time.</p>
+	<p><b>2. NRA lobbyist spending:</b> I spent all day yesterday talking to people and researching the money that's hidden from lobbyists and goes unrecorded. I even ended up writing an <a href="http://explainthis.lilahrap.com/political-lobbying-is-confusing-on-purpose-ive-unpacked-it-for-you-here/" target="_blank">explainer about it</a> for my website. I would LOVE to delve deeper into it, but the conclusion I came to is that, like with the foster care project, the data is fundamentally flawed. In some cases, the amount firms spent lobbying that's recorded publicly and shared on sites like OpenData only accounts for one TENTH of what firms actually spend on legislators. I found a visual that is similar to my backup plan to visualize the different places that money goes <a href="http://www.thenation.com/article/178460/shadow-lobbying-complex?page=full" target="_blank">(here)</a>, and although I did think about doing a similar one my own, I want to learn about data journalism in this class, and ultimately this won't use any real data to do. This research did leave me with a much more conclusive understanding about lobbying, though, and an explainer, so for that I am grateful :).</p>
+</div>
+
+		
+<div class="post">
+	<h2>My real pitch: <br />HOW MUCH BACON DO CITY WORKERS BRING HOME?</font></h2>
+	<p>I recently spoke with an NYC sanitation worker and found out he makes $85k a year and can start collecting his pension after 20 years. His story made me curious about the occupational wages of other city employees and how they compare.</p>
+	<p>The best data available for this is via <a href="http://seethroughny.net/payrolls/city-of-ny/" target="_blank">SeeThroughNY</a>, a project from the Manhattan Institute's Empire Center for New York State Policy. They have data available from 2009-2013. The <a href="http://labor.ny.gov/stats/lswage2.asp" target="_blank">Department of Labor</a> collects this data for NYC and all of New York State, but not specified to city and state employees, and not as specific - they only offer the mean, median and mode for each occupation.</p>
+	<p>I spent a few hours looking at this data in my inspector, and searching through the network to find the data so I could begin the process of scraping. This is where I need your help first. I found the link to view the toolbar in its own page <a href="http://qvs.visiblegovernment.us/QvAJAXZfc/notoolbar.htm?document=Clients/Empire%20Center/Payroll/NY_Payroll_New_York_City.qvw&host=localhost&anonymous=true" target="_blank">(see here)</a>, but I can't find anything in it that looks like data. The most information I could find was in its <a href=http://qvs.visiblegovernment.us/QvAjaxZfc/htc/QvAjax.js target="_blank">javascript.</a> Is there any data hidden in there that I can't see? Or is their data purposefully hidden from nosy people like me? If it is hidden, are there any workarounds we can use to scrape this data so I can look at averages and compare averages salaries to each other, etc?</p>
+	<p>A few interesting figures I found just in looking at the data on the webpage are that the highest paid public employee in NYC in 2013 was Anthony Bonelli, a Computer Operations Manager for the Police Pension Fund, who made $555,288 (which is over $300,000 more than his official rate of pay). It turns out he was faslely arrested for stealing computer files, and he's getting paid a settlement from the city. Also interesting is the second, Irene Kruiten-Eppinge, a supervising emergency medical service specialist at the fire department, has a rate of pay of $64,000 but was paid the second biggest amount, at $344,175. That's a big difference. And how did a Maintenance Worker for the Dept of Health and Mental Hygiene, whose rate of pay is $209 a day, make $282,000 in 2013? He would only make $76,000 if he worked every day of the year.</p>
+	<p>Another funny thing: Mayor Bloomberg only took a salary of $1 per year. To be rich!</p>
+	<p>I may want to call the department that each of the highest paid public employees are in, and find out what puts them at the top of the heap. I'm envisioning some sort of a chart that compares different occupations and their salaries (depending on where the most interesting information is), and a short writing piece to contextualize it. When you hover over each occupation you'd get a bit more detail in the numbers: highest and lowest paid in that occupation, etc. I could alternately do some sort of separate visual that highlights the highest and lowest paid workers in NYC (maybe without focusing on names, just on occupation, rate of pay, and actual pay). This depends, of course, on what in the data sticks out the most.</p>
+	<p>
+	<p>So, things I need to learn:</p>
+	<p style="padding-left: 60px;">1. Scraping this data off the site.</p>
+	<p style="padding-left: 60px;">2. Different ways to use charts to visualize averages, etc. We touched on this last week but I'd love to see other ways excel could help with this.</p>
+	<p style="padding-left: 60px;">3. Different ways to make charts look pretty on the internet, using css, javascript, etc. I know you mentioned that our expectations may be too high about how pretty our stuff can turn out, but it'd be a useful skill to know how to build the type of stuff data journalists build. I'd like to leave the class with a bit of that knowledge.</p>
+	<p style="padding-left: 60px;">4. How to clean up the data on the bottom - what to do with part time workers, etc.</p>
+
+	<p>I could pitch this idea to many different NYC publications: New York Magazine, WNYC, The New York Times, etc.</p>
+</div>
+
+
+</body>
+</html>
