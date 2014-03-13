@@ -1,0 +1,224 @@
+<style type="text/css">
+
+body {
+  width:760px;
+  margin:40px auto;
+  font-family: georgia, sans;
+}
+
+h1 {
+  border-bottom:1px solid #dedede;
+  margin-bottom:20px;
+  padding-bottom:20px;
+}
+
+.drug-box {
+	background-color: #a2c4c9;
+	font-size: 10px;
+	width:100px;
+	margin: 15px;
+	padding: 20px;
+	float: left;
+	text-align: center;
+}
+
+.selected {
+	background-color: #b2b2b2;
+}
+
+.reset {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #dfdfdf) );
+	background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
+	background-color:#ededed;
+	-webkit-border-top-left-radius:6px;
+	-moz-border-radius-topleft:6px;
+	border-top-left-radius:6px;
+	-webkit-border-top-right-radius:6px;
+	-moz-border-radius-topright:6px;
+	border-top-right-radius:6px;
+	-webkit-border-bottom-right-radius:6px;
+	-moz-border-radius-bottomright:6px;
+	border-bottom-right-radius:6px;
+	-webkit-border-bottom-left-radius:6px;
+	-moz-border-radius-bottomleft:6px;
+	border-bottom-left-radius:6px;
+	text-indent:0;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#777777;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+	height:50px;
+	line-height:50px;
+	width:100px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+.reset:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ededed) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ededed 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ededed');
+	background-color:#dfdfdf;
+}.reset:active {
+	position:relative;
+	top:1px;
+
+
+
+</style>
+
+<h1>Starter interactive</h1>
+
+<p><a href="#" class="reset">RESET</a></p>
+
+
+
+<div class="drug-box" id="excedrin" data-num="2000">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/excedrin.jpg">
+Excedrin
+</div>
+
+<div class="drug-box" id="nyquil" data-num="2600">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/nyquil.jpg">
+NyQuil
+</div>
+
+<div class="drug-box" id="robitussin" data-num="3840">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/robitussin.jpg">
+Robitussin
+</div>
+
+<div class="drug-box" id="sudafed" data-num="3250">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/sudafed.jpg">
+Sudafed
+</div>
+
+
+<div class="drug-box" id="alkaseltzer" data-num="2000">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/alkaseltzer.jpg">
+Alka-Seltzer Plus
+</div>
+
+<div class="drug-box" id="theraflu" data-num="3900">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/theraflu.jpg">
+Theraflu
+</div>
+
+<div class="drug-box" id="tylenolextrastrngth" data-num="3000">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/tylenolextrastrngth.jpg">
+Tylenol X-Strength
+</div>
+
+<div class="drug-box" id="zicam" data-num="3900">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/zicam.jpg">
+Zicam
+</div>
+
+<div class="drug-box" id="anacin" data-num="4000">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/anacin.jpg">
+Anacin
+</div>
+
+<div class="drug-box" id="childrenstylenol" data-num="800">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/childrenstylenol.jpg">
+Children's Tylenol
+</div>
+
+<div class="drug-box" id="dimetapp" data-num="800">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/dimetapp.jpg">
+Dimetapp
+</div>
+
+<div class="drug-box" id="panadol" data-num="800">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/panadol.jpg">
+Panadol
+</div>
+
+<div class="drug-box" id="dayquil" data-num="1300">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/dayquil.jpg">
+DayQuil
+</div>
+
+<div class="drug-box" id="coricidin" data-num="3900">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/coricidin.jpg">
+Coricidin
+</div>
+
+<div class="drug-box" id="tylenolwcodeine" data-num="4000">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/tylenolwcodeine.jpg">
+Tylenol w. Codeine
+</div>
+
+<div class="drug-box" id="vicodin" data-num="3960">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/vicodin.jpg">
+Vicodin
+</div>
+
+<div class="drug-box" id="percocet" data-num="3900">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/percoset.jpg">
+Percoset
+</div>
+
+<div class="drug-box" id="hydrocodone" data-num="3900">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/hydrocodone.jpg">
+Hydrocodone
+</div>
+
+<div class="drug-box" id="oxycodone" data-num="3900">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/oxycodone.jpg">
+Oxycodone
+</div>
+
+<div class="drug-box" id="ultracet" data-num="2600">
+	<img src="/Users/vraptopo/Documents/Studio 20/datajournalism/data-journalism-home/week-7/images/ultracet.jpg">
+Ultracet
+</div>
+
+
+
+<script type="text/javascript" src="jquery-1.11.0.min.js"></script>
+
+
+
+<script type="text/javascript">
+
+// this is how you comment in javascript.
+console.log("this is where javascript will go!");
+
+</script>
+
+<script>
+
+var total_dose = 0;
+
+$(document).ready(function() {
+    $("div").click(function() {
+    $(this).toggleClass("selected");
+     console.log($(this).data("num"));
+
+     if ($(this).hasClass("selected")) { 
+     total_dose = total_dose + $(this).data("num");
+ 		}
+
+ 	else {
+    total_dose = total_dose - $(this).data("num");
+         }
+	
+	if (
+    total_dose > 15000) {
+    	alert("dead!!")}
+
+ 	console.log(total_dose);
+
+    });
+});
+   
+
+</script>
