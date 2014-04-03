@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.counties {
+  fill: none;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+h1 {
+  font: 30px sans-serif;
+  color: #333333;
+  font-variant:small-caps;
+}
+
+body {
+  font: 10px sans-serif;
+}
+
+.mytable{
+  -webkit-column-count:3; /* Chrome, Safari, Opera */
+  -moz-column-count:3; /* Firefox */
+  column-count:3;
+}
+
+td {
+  padding: 4px 0;
+  font-family: arial;
+  font-size: 11px;
+  border-bottom:1px solid #dedede;
+}
+
+table {
+  border-collapse:collapse;
+  
+} 
+
+
+/*.q0-9 { fill:rgb(247,251,255); }
+.q1-9 { fill:rgb(222,235,247); }
+.q2-9 { fill:rgb(198,219,239); }
+.q3-9 { fill:rgb(158,202,225); }
+.q4-9 { fill:rgb(107,174,214); }
+.q5-9 { fill:rgb(66,146,198); }
+.q6-9 { fill:rgb(33,113,181); }
+.q7-9 { fill:rgb(8,81,156); }
+.q8-9 { fill:rgb(8,48,107); }*/
+
+</style>
+
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var width = 960,
+    height = 600;
+
+var rateById = d3.map();
+
+ var quantize = d3.scale.quantize()
+     .domain([0, 20])
+     .range(d3.range(9).map(function(i) { return "q" + i + "-9"; }));
+
+mycolor = d3.scale.threshold()
+    .domain([10, 50, 100, 200, 500, 1000, 20000])
+    .range(["#ffffcc", "#c7e9b4", "#7fcdbb", "#41b6c4", "#1d91c0", "#225ea8", "#0c2c84"]);
+
+var projection = d3.geo.albersUsa()
+    .scale(1280)
+    .translate([width / 2, height / 2]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+queue()
+    .defer(d3.json, "us.json")
+    .defer(d3.tsv, "guns-history3.tsv", function(d) { rateById.set(d.id, +d.rate); })
+    .await(ready);
+
+function ready(error, us) {
+  svg.append("g")
+      .attr("class", "counties")
+    .selectAll("path")
+      .data(topojson.feature(us, us.objects.counties).features)
+    .enter().append("path")
+      .style("fill", function(d) { return mycolor(rateById.get(d.id)); })
+      // .attr("class", function(d) { return quantize(rateById.get(d.id)); })
+      .attr("d", path);
+
+svg.selectAll("path")
+ .data(topojson.feature(us, us.objects.counties).features)
+ .append("svg:title")
+ // .attr("class", function(d) { return "path " + d.id; })
+ .attr("transform", function(d) { return "translate(" + path.centroid(d) + ")"; })
+ .attr("dy", ".35em")
+ .text(function(d) { return "Number of guns: "+(rateById.get(d.id)) });
+
+  svg.append("path")
+      .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+      .attr("class", "states")
+      .attr("d", path);
+
+
+}
+
+d3.select(self.frameElement).style("height", height + "px");
+
+
+</script>
+
+<h1>
+guns per state, in descending order
+</h1>
+<body>
+<div class= "mytable" >
+<table>
+  <tbody>
+     <tr class="firstRow">
+      <td class="Illinois-cell">Illinois</th>
+      <td class="22051-cell">22051</th>
+   </tr>
+   <tr>
+      <td class="Illinois-cell">Indiana</td>
+      <td class="22051-cell">7747</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Mississippi</td>
+      <td class="22051-cell">4296</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Wisconsin</td>
+      <td class="22051-cell">1647</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Kentucky</td>
+      <td class="22051-cell">1226</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Ohio</td>
+      <td class="22051-cell">1121</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Tennessee</td>
+      <td class="22051-cell">1090</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Alabama</td>
+      <td class="22051-cell">1070</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Arkansas</td>
+      <td class="22051-cell">944</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Texas</td>
+      <td class="22051-cell">937</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Georgia</td>
+      <td class="22051-cell">933</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Michigan</td>
+      <td class="22051-cell">679</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Florida</td>
+      <td class="22051-cell">673</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Louisiana</td>
+      <td class="22051-cell">529</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">California</td>
+      <td class="22051-cell">526</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Minnesota</td>
+      <td class="22051-cell">474</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Iowa</td>
+      <td class="22051-cell">397</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Arizona</td>
+      <td class="22051-cell">355</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Missouri</td>
+      <td class="22051-cell">344</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">North Carolina</td>
+      <td class="22051-cell">295</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Virginia</td>
+      <td class="22051-cell">269</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Oklahoma</td>
+      <td class="22051-cell">207</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">West Virginia</td>
+      <td class="22051-cell">202</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Colorado</td>
+      <td class="22051-cell">187</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Pennsylvania</td>
+      <td class="22051-cell">181</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Kansas</td>
+      <td class="22051-cell">177</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Washington</td>
+      <td class="22051-cell">156</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">South Carolina</td>
+      <td class="22051-cell">152</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Massachusetts</td>
+      <td class="22051-cell">108</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Nebraska</td>
+      <td class="22051-cell">104</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Nevada</td>
+      <td class="22051-cell">103</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">New York</td>
+      <td class="22051-cell">97</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">New Mexico</td>
+      <td class="22051-cell">75</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Montana</td>
+      <td class="22051-cell">53</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Utah</td>
+      <td class="22051-cell">53</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Maryland</td>
+      <td class="22051-cell">50</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Connecticut</td>
+      <td class="22051-cell">46</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Oregon</td>
+      <td class="22051-cell">40</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Idaho</td>
+      <td class="22051-cell">39</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">South Dakota</td>
+      <td class="22051-cell">36</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Alaska</td>
+      <td class="22051-cell">33</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">North Dakota</td>
+      <td class="22051-cell">31</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Wyoming</td>
+      <td class="22051-cell">29</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">New Jersey</td>
+      <td class="22051-cell">21</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Maine</td>
+      <td class="22051-cell">18</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">New Hampshire</td>
+      <td class="22051-cell">14</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Delaware</td>
+      <td class="22051-cell">10</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Hawaii</td>
+      <td class="22051-cell">8</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Rhode Island</td>
+      <td class="22051-cell">5</td>
+    </tr>
+    <tr>
+      <td class="Illinois-cell">Vermont</td>
+      <td class="22051-cell">4</td>
+    </tr>
+    <tr class="lastRow">
+      <td class="Illinois-cell">District of Columbia</td>
+      <td class="22051-cell">2</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</body>
